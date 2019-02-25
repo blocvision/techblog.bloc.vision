@@ -86,7 +86,7 @@ module.exports = () => {
 공개하기
 npm publish
 
-npm search mpmtest-7777 있는지 검색해 보기
+npm search npmtest-7777 있는지 검색해 보기
 npm info npmtest-7777 
 
 
