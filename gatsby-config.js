@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'GoodPlanner\'s Blog from BlocVision, Inc',
-    description: 'GoodPlanner\'s Blog from BlocVision, Inc',
+    title: 'BlocVision\'s Blog from BlocVision, Inc',
+    description: 'BlocVision\'s Blog from BlocVision, Inc',
   },
   plugins: [   
     'gatsby-plugin-react-helmet',
