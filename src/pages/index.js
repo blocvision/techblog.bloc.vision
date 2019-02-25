@@ -13,7 +13,7 @@ export default class IndexPage extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1 className="has-text-weight-bold is-size-2">선한기획자 박현준 스토리</h1>
+              <h1 className="has-text-weight-bold is-size-2">블록비전 테크스토리</h1>
             </div>
             {posts
               .map(({ node: post }) => (
